@@ -11,7 +11,7 @@ global.owner = [['524531287294', 'CuriosityBot-MD 🍧', true], ['447700168473',
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = '' //Ejemplo: +59309090909
+global.botNumberCode = '' //Ejemplo: +50255515861
 global.confirmCode = ''
 
 global.suittag = ['5214531287294']
@@ -36,7 +36,7 @@ global.baileys = '@whiskeysockets/baileys'
 global.lenguaje = 'Español'
 global.menudi = ['⛶','❏','⫹⫺']
 global.dev = '¿Azami ~ Zam?'
-global.devnum = '+591 62714296'
+global.devnum = '+502 55515861'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => { unwatchFile(file)
